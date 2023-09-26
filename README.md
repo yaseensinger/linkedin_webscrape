@@ -25,7 +25,7 @@ python job_scrape.py
 The script will prompt you to enter your LinkedIn email address and password. Once you have entered your credentials, the script will start scraping data.
 
 ## Tableu Public Link
-You can view the scraped data in Tableu Public here: [link to Tableu Public dashboard]
+You can view the scraped data in Tableu Public here: https://public.tableau.com/shared/T8X88444G?:display_count=n&:origin=viz_share_link
 
 ## Other Information
 The script is written in Python 3.
