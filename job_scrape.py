@@ -238,8 +238,8 @@ def main():
     version = get_version()
     print("The version of the Selenium library is:", version)
 
-    email = "singeryaseen79@gmail.com"
-    password = "Y4seen19"
+    email = "email"
+    password = "password"
     keywords = ["Python", "SQL", "C#","C++","Java","AWS","Azure","Tableau","Power BI","Excel","Bachelor's","Master's","PhD"]
     driver = webdriver.Chrome()
 
