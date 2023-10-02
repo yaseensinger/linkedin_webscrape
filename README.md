@@ -22,7 +22,9 @@ pip install openpyxl
 To run the script, simply run the following command:
 python job_scrape.py
 
-The script will prompt you to enter your LinkedIn email address and password. Once you have entered your credentials, the script will start scraping data.
+add your emial and password on lines 241 and 242
+
+make sure you are using google chrom version 114
 
 ## Tableu Public Link
 You can view the scraped data in Tableu Public here: https://public.tableau.com/shared/T8X88444G?:display_count=n&:origin=viz_share_link
